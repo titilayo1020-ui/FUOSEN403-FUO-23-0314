@@ -1,0 +1,5 @@
+Version Control: A system (such as Git) that tracks changes to source code files over time. It allows developers to recall specific versions later, review revision history, and collaborate without overwriting each other's work.
+Repository (Repo): A digital storage location (folder) where all project files, directories, commit history, and revision metadata are stored—either locally on your computer or hosted remotely on GitHub.
+Commit: A saved snapshot of changes made to project files at a specific point in time, recorded with a unique ID and an explanatory message detailing what was altered.
+Branch: An independent, isolated line of development split off from the main codebase (e.g., `main` or `master`). It enables developers to build features or fix bugs without affecting the stable production code.
+Merge: The process of combining code changes from one branch (e.g., a feature branch) into another target branch (e.g., `main`) after testing and review.
